@@ -44,8 +44,8 @@ Check [this](https://www.kaggle.com/c/integer-sequence-learning) for detailed de
 
 ## Results
 
-| Model Type | Score  |
-|-- | -- |
+| Model Type | Score |
+|----|----|
 | Exp1 | 0.13477 |
 | Exp2 | 0.14557|
 | Ensemble | 0.15547 |
